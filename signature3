@@ -1,0 +1,23 @@
+  class com.mkyong.rest.JSONService
+  class com.mkyong.rest.Produces_XML_JSON_Example
+mai 09, 2018 10:38:40 PM com.sun.jersey.api.core.ScanningResourceConfig init
+INFOS: No provider classes found.
+mai 09, 2018 10:38:40 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFOS: Initiating Jersey application, version 'Jersey: 1.18 11/22/2013 03:05 AM'
+mai 09, 2018 10:38:41 PM org.apache.catalina.core.StandardContext reload
+INFOS: Le rechargement de ce contexte est terminé
+mai 09, 2018 10:39:54 PM org.apache.catalina.core.StandardContext reload
+INFOS: Le rechargement du contexte [/RESTfulExample] a démarré
+mai 09, 2018 10:39:54 PM org.apache.jasper.servlet.TldScanner scanJars
+INFOS: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+mai 09, 2018 10:39:54 PM com.sun.jersey.api.core.PackagesResourceConfig init
+INFOS: Scanning for root resource and provider classes in the packages:
+  com.mkyong.rest
+mai 09, 2018 10:39:54 PM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFOS: Root resource classes found:
+  class com.mkyong.rest.JSONService
+
+mai 09, 2018 10:39:54 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFOS: Initiating Jersey application, version 'Jersey: 1.18 11/22/2013 03:05 AM'
+mai 09, 2018 10:39:55 PM org.apache.catalina.core.StandardContext reload
+INFOS: Le rechargement de ce contexte est terminé

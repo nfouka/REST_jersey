@@ -1,0 +1,12 @@
+com\mkyong\FileName.class
+com\mkyong\rest\JSONService.class
+org\webservice\application\RSApplication.class
+com\mkyong\rest\Produces_XML_JSON_Example.class
+com\aws\EJBLocal.class
+com\aws\EJBRemote.class
+com\mkyong\Track.class
+com\aws\MyBeansManager.class
+com\mkyong\rest\files.class
+com\aws\MyEJB.class
+com\mkyong\rest\HelloWorldService.class
+com\mkyong\AllSigned.class
